@@ -1,0 +1,16 @@
+# First Markdown Assignment
+print("Hello World")
+
+## Why is it important to analyze data?
+
+
+
+## An application of data science application
+
+
+
+## Data Science proposal
+
+
+
+
