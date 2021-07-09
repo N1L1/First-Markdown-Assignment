@@ -1,0 +1,50 @@
+---
+title: "First Markdown Assignment v.0.02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### **Question 1:**
+#### Aside from reasons mentioned above, why do we need to study and analyze data?
+*insert answer here*
+
+---
+
+### **Question 2:**
+#### Cite atleast one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.
+*insert answer here*
+
+---
+
+### **Question 3:**
+#### Propose atleast one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.
+
+
+##### Name 1
+
+*answer*
+
+
+##### Name 2
+
+*answer*
+
+
+##### Name 3
+
+*answer*
+
+
+##### Name 4
+
+*answer*
+
+---
+
+---
+
+![add pictures to look nicer](D:/Sun Phil/Magikarp.png)
+
