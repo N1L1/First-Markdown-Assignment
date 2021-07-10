@@ -34,7 +34,27 @@ The advantages of data-driven decision-making. (2019, August 26). Business Insig
 
 ### **Question 2:**
 #### Cite atleast one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.
-*insert answer here*
+One of the applications of data science in everyday life is **data personalization by a person’s preferences** in entertainment websites or apps such as *Spotify* and *Netflix*. Netflix programming uses algorithms that are designed to produce shows, and then catered to their consumers whose behavior patterns suggest that they might like their programming that came from their databases. This allows them to customize the watchlist of their consumers in accordance with popular actors, genre, or just through consumer preference (Jahnke, 2019). Meanwhile, similar to Netflix, Spotify also uses data in order to customize their weekly playlist of songs that again, cater to the preferences of their consumers. Through modern data science technologies, not only do the users of these entertainment apps or websites get entertained, but also allows the distributors to save lots of money that once would have been spent on marketing. It also allows these distributors not only to acquire the licensing of certain content from other distributors to satisfy their consumers but also to “create” content themselves (such as the Netflix original series Stranger Things) because they know what their consumers would like. 
+
+![Netflix recommendations](https://drupal.anyforsoft.com/sites/default/files/inline-images/netflix-ai-trend.jpg)
+
+Another application of data science is in the **healthcare industry**. It plays a very important role in monitoring a patient’s health and notifying necessary steps to be taken in order to detect potential diseases in order to prevent them from taking place. This proved to be very beneficial as a late detection of any disease would not only be detrimental to a person’s health but it would also cost them a lot of money to treat the disease or ailment (Data Flair, 2021). Data science also helps in monitoring a patient’s health. Wearable devices that track heartbeat, temperature and other medical parameters collect data that would be soon analyzed by doctors or/and medical experts to not only detect any sign of ailment or disease but also to keep track of a patient’s blood pressure, calorie intake and many others. These devices use real-time analytics to predict any problem based on the patient’s present condition, which helps doctors assess the necessary conditions to help patients in distress.
+
+![Data Scinece in Healthcare](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/02/Data-Science-in-Healthcare-1.jpg)
+
+Finally, another notable application of data science is in the **Finance sector**. Banks can now easily manage massive amounts of data to learn more about their clients so that they could drive new revenue opportunities and improve their business decision making. Another is an effective customer support service. Clients could just easily contact a customer service representative through landline or through the internet (via email and voice chat or call), which enables them to ask questions or send complaints without the need (or at least limits the necessity) to personally go to a bank. It also enables clients to “pay online” or “contactless payment” which enables their clients to shop online through the use of a credit or debit card. Finally, through data science, banks can safely handle and keep track of their clients accounts to avoid credit card fraud, the breach of important financial data, and any other suspicious activity that would compromise their clients’ financial accounts (Activewizards, n.d). 
+
+![Data Scinece in Banking](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/04/data-science-in-Banking.jpg)
+
+
+**References:**
+
+Data Flair (2021, April 02). Data Science in Healthcare - 7 Applications No one will Tell You. Retrieved July 08, 2021, from https://data-flair.training/blogs/data-science-in-healthcare/
+
+Jahnke, A. (2019, March 07). Netflix, Spotify, and how data is shaping the arts. Retrieved July 08, 2021, from https://www.bu.edu/articles/2019/data-arts/
+
+Activewizards (n.d.) Top 9 data science use cases in banking. Retrieved July 09, 2021, from https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/ 
+
 
 ---
 
@@ -50,17 +70,24 @@ The advantages of data-driven decision-making. (2019, August 26). Business Insig
 ##### Salvador, Lester Niel S.
 
 The pandemic has brought us lots of challenges that made us look for ways on how to survive the economic regression. A lot of Filipinos have started their own small businesses such as online thrift shops, foods, and many more. Because of this, I became interested in the growth of Micro, Small, and Medium Enterprises (MSMEs) in the Philippines. Big businesses are the ones who may control the stock market, but it is the small businesses and start ups that keep the economy moving. Small businesses are commonly found in the local barangays and places, thus, generating more jobs and opportunities for local individuals. Small businesses also have great potential because it is more often started by individuals who have great ideas and aims to bring innovation and something new in the industry.
- 
+
 This topic is timely and relevant to what the country is experiencing and it becomes more interesting on how people are dealing with the lack of jobs and worsening economy by establishing their own small businesses. We can gather data from the website of the Department of Trade and Industry for the number of small businesses established for 2018-2019, the United Nations Philippines official website, and other studies about the growth of MSMEs in the Philippines more especially in the time of the pandemic. 
  
 The statistical methods that we will be using for this study would be numerical analysis of pre-existing data from reliable sources, data management, and making generalizations and conclusions based on the data that we have gathered. The main group of people who will benefit from this study is those who have plans in starting their own businesses in the middle of the pandemic and existing MSME owners so they can devise their own plans for the betterment of their business. 
 
 ![Alt text] (/Users/lesternielsalvador/Documents/GitHub/First-Markdown-Assignment/First Markdown Assignmentver0.01)
 
-##### Name 3
+##### Sison, Justine Matthew 
 
-*answer*
+One possible data science topic we could pursue is to determine the unemployment rate of people in Metro Manila during the pandemic. Many businesses had closed down and many companies laid off some if not most of their workers to minimize their spending due to the lockdown where their consumers had drastically reduced, thus having little to no revenue. Because of that, there should be an increase in the unemployment rate, but we would like to determine at what percentage the unemployment rate increased when compared to 2019, the year before 2020 where the pandemic began. Since the country is vast, we decided to focus on the unemployment rate here in Metro Manila, one of the most, if not the most, urban cities in the country where most of the country’s local labor force are situated. However, the population in Metro Manila is very populous, where according to world population review, the estimated population in Metro Manila is about 14 million (World Population Review, 2021). Not to mention that we have very limited means to conduct a survey with a very large sample size due to the limitations imposed by the government and other limitations during the pandemic.
 
+![2020 Unemployment rate in Metro Manila](https://media.philstar.com/photos/2020/09/03/july-jobless-01_2020-09-03_12-16-35_gallery.png)
+
+Therefore, we would like to conduct a survey with a Stratified Random Sampling as a means to determine the unemployment rate in Metro Manila. We would like to get 25 respondents from each of the 17 municipalities in Metro Manila, which would give us a total of 425 respondents. Although it would be better if we have a larger sample size, we felt that we cannot conduct a survey with more than 25 respondents due to the limitations brought by the pandemic. And then, we would determine if there was a significant increase in the unemployment rate by comparing the 2 rates. The government could learn from this survey in order to loosen up their lockdown policies or/and help those who were unemployed in the pandemic by enacting certain policies. 
+
+**Reference:**
+
+World Population Review (2021). Manila Population 2021. Retrieved July 10, 2021 from: https://worldpopulationreview.com/world-cities/manila-population 
 
 ##### Name 4
 
