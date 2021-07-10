@@ -1,6 +1,8 @@
 ---
 title: "First Markdown Assignment v.0.02"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -9,7 +11,24 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Question 1:**
 #### Aside from reasons mentioned above, why do we need to study and analyze data?
-*insert answer here*
+**Data analysis** is *an important process to make the right decisions.* When one began to gather and analyze data, one will likely find it easier to reach a particular decision to make (Business Insights, 2019). With the use of data analysis, a complex and abstract problem is being simplified into series of small problems that can now be solved with the help of available data. The options are now being weighed based on different criteria that one has set to satisfy his own wants and needs. Because data is available everywhere and we acquire it every day, we started to look for patterns to make sense of the scattered data available. 
+
+! [Alt text] (/Users/lesternielsalvador/Documents/GitHub/First-Markdown-Assignment/First Markdown Assignmentver0.01)
+
+Data science is *being used as a tool to communicate with a certain group of people*, thus, it *helps in improving people’s lives.* This should be the main goal of a certain organization in obtaining and collecting data to design different tools that will help in improving people’s lives. Also, the use of data science allows organizations and individuals to more effectively determine the cause of the problem. With the help of data analysis, one will be able to visualize and determine striking relationships between circumstances that they encountered. When the problems have been pointed out, they will be able to strategize approaches in solving a particular problem that will increase their efficiency. Data analysis helps an individual and an organization to determine which should take priority over the others (The Council on Quality and Leadership, n.d.). 
+
+! [Alt text] (/Users/lesternielsalvador/Documents/GitHub/First-Markdown-Assignment/First Markdown Assignmentver0.01)
+
+Data interpretation and analysis is a significant aspect when we work with data sets in any field we are in. As we analyze data, it becomes helpful for us to acquire useful and relevant information from a lot of unorganized data that will enable us to arrive at a solid decision that is not only useful for businesses and researchers, but also for individuals. 
+
+**References:**
+
+12 reasons why data is important. (n.d.). The Council on Quality and Leadership. Retrieved July 9,
+2021, from <https://www.c-q-l.org/resources/guides/12-reasons-why-data-is-important/>
+
+The advantages of data-driven decision-making. (2019, August 26). Business Insights - Blog.
+<https://online.hbs.edu/blog/post/data-driven-decision-making>
+
 
 ---
 
@@ -28,10 +47,15 @@ knitr::opts_chunk$set(echo = TRUE)
 *answer*
 
 
-##### Name 2
+##### Salvador, Lester Niel S.
 
-*answer*
+The pandemic has brought us lots of challenges that made us look for ways on how to survive the economic regression. A lot of Filipinos have started their own small businesses such as online thrift shops, foods, and many more. Because of this, I became interested in the growth of Micro, Small, and Medium Enterprises (MSMEs) in the Philippines. Big businesses are the ones who may control the stock market, but it is the small businesses and start ups that keep the economy moving. Small businesses are commonly found in the local barangays and places, thus, generating more jobs and opportunities for local individuals. Small businesses also have great potential because it is more often started by individuals who have great ideas and aims to bring innovation and something new in the industry.
+ 
+This topic is timely and relevant to what the country is experiencing and it becomes more interesting on how people are dealing with the lack of jobs and worsening economy by establishing their own small businesses. We can gather data from the website of the Department of Trade and Industry for the number of small businesses established for 2018-2019, the United Nations Philippines official website, and other studies about the growth of MSMEs in the Philippines more especially in the time of the pandemic. 
+ 
+The statistical methods that we will be using for this study would be numerical analysis of pre-existing data from reliable sources, data management, and making generalizations and conclusions based on the data that we have gathered. The main group of people who will benefit from this study is those who have plans in starting their own businesses in the middle of the pandemic and existing MSME owners so they can devise their own plans for the betterment of their business. 
 
+![Alt text] (/Users/lesternielsalvador/Documents/GitHub/First-Markdown-Assignment/First Markdown Assignmentver0.01)
 
 ##### Name 3
 
