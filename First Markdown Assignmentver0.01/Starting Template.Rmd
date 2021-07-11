@@ -1,8 +1,8 @@
 ---
-title: "First Markdown Assignment v.0.02"
+title: "First Markdown Assignment v.0.03"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -67,7 +67,7 @@ Activewizards (n.d.) Top 9 data science use cases in banking. Retrieved July 09,
 *answer*
 
 
-##### Salvador, Lester Niel S.
+#### Salvador, Lester Niel S.
 
 The pandemic has brought us lots of challenges that made us look for ways on how to survive the economic regression. A lot of Filipinos have started their own small businesses such as online thrift shops, foods, and many more. Because of this, I became interested in the growth of Micro, Small, and Medium Enterprises (MSMEs) in the Philippines. Big businesses are the ones who may control the stock market, but it is the small businesses and start ups that keep the economy moving. Small businesses are commonly found in the local barangays and places, thus, generating more jobs and opportunities for local individuals. Small businesses also have great potential because it is more often started by individuals who have great ideas and aims to bring innovation and something new in the industry.
 
@@ -77,7 +77,7 @@ The statistical methods that we will be using for this study would be numerical 
 
 ![Alt text] (/Users/lesternielsalvador/Documents/GitHub/First-Markdown-Assignment/First Markdown Assignmentver0.01)
 
-##### Sison, Justine Matthew 
+#### Sison, Justine Matthew 
 
 One possible data science topic we could pursue is to determine the unemployment rate of people in Metro Manila during the pandemic. Many businesses had closed down and many companies laid off some if not most of their workers to minimize their spending due to the lockdown where their consumers had drastically reduced, thus having little to no revenue. Because of that, there should be an increase in the unemployment rate, but we would like to determine at what percentage the unemployment rate increased when compared to 2019, the year before 2020 where the pandemic began. Since the country is vast, we decided to focus on the unemployment rate here in Metro Manila, one of the most, if not the most, urban cities in the country where most of the country’s local labor force are situated. However, the population in Metro Manila is very populous, where according to world population review, the estimated population in Metro Manila is about 14 million (World Population Review, 2021). Not to mention that we have very limited means to conduct a survey with a very large sample size due to the limitations imposed by the government and other limitations during the pandemic.
 
@@ -89,13 +89,40 @@ Therefore, we would like to conduct a survey with a Stratified Random Sampling a
 
 World Population Review (2021). Manila Population 2021. Retrieved July 10, 2021 from: https://worldpopulationreview.com/world-cities/manila-population 
 
-##### Name 4
 
-*answer*
+#### Castillo, Jose Xavier C.
+
+### **Question 1:**
+Data science is a valuable field of study  because the vast amounts of raw data acquirable online and in person is just “white noise” that makes little sense to anyone who isn’t a statistician. It is up to the people who study data science to make sense of this data and present it in ways that allow the general public to understand and make use of this data. 
+
+### **Question 2:**
+![Global Warming](https://ccimgs-2019.s3.amazonaws.com/2019DecadeTemps/2019DecadeTemps_Global_C_en_title_lg.jpg)
+
+One instance of data science contributing to change is the many different statistics that are used in gauging the effects of global warming. Massive amounts of data gathered by scientists around the world about the ever changing environment are used as a basis on sanctioning harmful industries and practices, all for the sake of the environment.
+
+
+
+
+### **Question 3:**
+![Casino Cards](https://www.bestcasinosites.net/wp-content/uploads/2020/01/casino-card-games-intro.jpg)
+
+
+One data science topic I would personally like to pursue is the science of “Card Counting”. According to Wendover productions, this practice is entirely legal and only looked down upon by casino management. It basically uses probability and statistics on the fly to consistently know what your odds are in any casino game, from blackjack to poker. The availability of data is of no concern as many blackjack and poker games are available online and in real life, while the calculations performed by many famous card counters are also readily available. The only one who would benefit from this study is myself of course.
+
+
+
+
+**Reference:**
+
+https://insidebigdata.com/2020/04/14/data-science-is-changing-the-world-for-the-better-heres-how/
+
+https://www.youtube.com/watch?v=Ongqf93rAcM
+
+
 
 ---
 
 ---
 
-![add pictures to look nicer](D:/Sun Phil/Magikarp.png)
+![add pictures to look nicer]
 
