@@ -21,6 +21,7 @@ Data science is *being used as a tool to communicate with a certain group of peo
 
 Data interpretation and analysis is a significant aspect when we work with data sets in any field we are in. As we analyze data, it becomes helpful for us to acquire useful and relevant information from a lot of unorganized data that will enable us to arrive at a solid decision that is not only useful for businesses and researchers, but also for individuals. 
 
+
 **References:**
 
 12 reasons why data is important. (n.d.). The Council on Quality and Leadership. Retrieved July 9,
@@ -62,11 +63,6 @@ Activewizards (n.d.) Top 9 data science use cases in banking. Retrieved July 09,
 #### Propose atleast one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.
 
 
-##### Name 1
-
-*answer*
-
-
 #### Salvador, Lester Niel S.
 
 The pandemic has brought us lots of challenges that made us look for ways on how to survive the economic regression. A lot of Filipinos have started their own small businesses such as online thrift shops, foods, and many more. Because of this, I became interested in the growth of Micro, Small, and Medium Enterprises (MSMEs) in the Philippines. Big businesses are the ones who may control the stock market, but it is the small businesses and start ups that keep the economy moving. Small businesses are commonly found in the local barangays and places, thus, generating more jobs and opportunities for local individuals. Small businesses also have great potential because it is more often started by individuals who have great ideas and aims to bring innovation and something new in the industry.
@@ -77,6 +73,7 @@ The statistical methods that we will be using for this study would be numerical 
 
 ![Alt text] (/Users/lesternielsalvador/Documents/GitHub/First-Markdown-Assignment/First Markdown Assignmentver0.01)
 
+
 #### Sison, Justine Matthew 
 
 One possible data science topic we could pursue is to determine the unemployment rate of people in Metro Manila during the pandemic. Many businesses had closed down and many companies laid off some if not most of their workers to minimize their spending due to the lockdown where their consumers had drastically reduced, thus having little to no revenue. Because of that, there should be an increase in the unemployment rate, but we would like to determine at what percentage the unemployment rate increased when compared to 2019, the year before 2020 where the pandemic began. Since the country is vast, we decided to focus on the unemployment rate here in Metro Manila, one of the most, if not the most, urban cities in the country where most of the country’s local labor force are situated. However, the population in Metro Manila is very populous, where according to world population review, the estimated population in Metro Manila is about 14 million (World Population Review, 2021). Not to mention that we have very limited means to conduct a survey with a very large sample size due to the limitations imposed by the government and other limitations during the pandemic.
@@ -84,6 +81,7 @@ One possible data science topic we could pursue is to determine the unemployment
 ![2020 Unemployment rate in Metro Manila](https://media.philstar.com/photos/2020/09/03/july-jobless-01_2020-09-03_12-16-35_gallery.png)
 
 Therefore, we would like to conduct a survey with a Stratified Random Sampling as a means to determine the unemployment rate in Metro Manila. We would like to get 25 respondents from each of the 17 municipalities in Metro Manila, which would give us a total of 425 respondents. Although it would be better if we have a larger sample size, we felt that we cannot conduct a survey with more than 25 respondents due to the limitations brought by the pandemic. And then, we would determine if there was a significant increase in the unemployment rate by comparing the 2 rates. The government could learn from this survey in order to loosen up their lockdown policies or/and help those who were unemployed in the pandemic by enacting certain policies. 
+
 
 **Reference:**
 
@@ -100,16 +98,10 @@ Data science is a valuable field of study  because the vast amounts of raw data 
 
 One instance of data science contributing to change is the many different statistics that are used in gauging the effects of global warming. Massive amounts of data gathered by scientists around the world about the ever changing environment are used as a basis on sanctioning harmful industries and practices, all for the sake of the environment.
 
-
-
-
 ### **Question 3:**
 ![Casino Cards](https://www.bestcasinosites.net/wp-content/uploads/2020/01/casino-card-games-intro.jpg)
 
-
 One data science topic I would personally like to pursue is the science of “Card Counting”. According to Wendover productions, this practice is entirely legal and only looked down upon by casino management. It basically uses probability and statistics on the fly to consistently know what your odds are in any casino game, from blackjack to poker. The availability of data is of no concern as many blackjack and poker games are available online and in real life, while the calculations performed by many famous card counters are also readily available. The only one who would benefit from this study is myself of course.
-
-
 
 
 **Reference:**
@@ -119,10 +111,18 @@ https://insidebigdata.com/2020/04/14/data-science-is-changing-the-world-for-the-
 https://www.youtube.com/watch?v=Ongqf93rAcM
 
 
+#### Zablan, Sun Phil M.
+
+One data science topic that interests me is on knowing how accurate the weather forecasts are compared to the actual weather. The weather can get pretty extreme and sometimes the forecasts don't pick up these sudden changes, it'd be useful to know just how much we can expect from the forecasts to be accurate so as to not have bad weather delaying your plans. The way we can work on it is to compile the temperature predictions from reliable source/s for one week and take the real temperatures for comparison, how much it deviates from the predictions. The statistical method we can use here is a descriptive one, by formulating a graph using already existing information, getting the standard deviations is a key part in this project.
+
+![Google's Weather Forecast](./del.png)
+
+
+**Reference**
+
+https://weather.com/weather/today/l/14.58,121.09?par=google
+
 
 ---
 
 ---
-
-![add pictures to look nicer]
-
