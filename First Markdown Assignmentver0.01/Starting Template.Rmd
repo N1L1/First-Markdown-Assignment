@@ -1,8 +1,8 @@
 ---
 title: "First Markdown Assignment v.0.03"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -100,9 +100,9 @@ One data science topic I would personally like to pursue is the science of “Ca
 
 **Reference:**
 
-https://insidebigdata.com/2020/04/14/data-science-is-changing-the-world-for-the-better-heres-how/
+Kothari, P. (2020, April 15). Data Science is Changing the World for the Better: Here's How. insideBIGDATA. https://insidebigdata.com/2020/04/14/data-science-is-changing-the-world-for-the-better-heres-how/. 
 
-https://www.youtube.com/watch?v=Ongqf93rAcM
+Wendover Productions. (2020, October 8). How to Beat the Casino, and How They'll Stop You. YouTube. https://www.youtube.com/watch?v=Ongqf93rAcM. 
 
 
 #### Zablan, Sun Phil M.
@@ -114,7 +114,7 @@ One data science topic that interests me is on knowing how accurate the weather 
 
 **Reference**
 
-https://weather.com/weather/today/l/14.58,121.09?par=google
+IBM Business. (2021, July 12). Maybunga, Philippines Weather Forecast and Conditions - The Weather Channel. The Weather Channel. https://weather.com/weather/today/l/14.58,121.09?par=google. 
 
 
 ---
