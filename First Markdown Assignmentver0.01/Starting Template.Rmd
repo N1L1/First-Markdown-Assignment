@@ -13,11 +13,12 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Aside from reasons mentioned above, why do we need to study and analyze data?
 **Data analysis** is *an important process to make the right decisions.* When one began to gather and analyze data, one will likely find it easier to reach a particular decision to make (Business Insights, 2019). With the use of data analysis, a complex and abstract problem is being simplified into series of small problems that can now be solved with the help of available data. The options are now being weighed based on different criteria that one has set to satisfy his own wants and needs. Because data is available everywhere and we acquire it every day, we started to look for patterns to make sense of the scattered data available. 
 
-! [Alt text] (/Users/lesternielsalvador/Documents/GitHub/First-Markdown-Assignment/First Markdown Assignmentver0.01)
+![Critical Elements for Decision Making](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2018Q2/critical-elements-for-decision-making/operations-webinar-recap-header@2x.png)
 
 Data science is *being used as a tool to communicate with a certain group of people*, thus, it *helps in improving people’s lives.* This should be the main goal of a certain organization in obtaining and collecting data to design different tools that will help in improving people’s lives. Also, the use of data science allows organizations and individuals to more effectively determine the cause of the problem. With the help of data analysis, one will be able to visualize and determine striking relationships between circumstances that they encountered. When the problems have been pointed out, they will be able to strategize approaches in solving a particular problem that will increase their efficiency. Data analysis helps an individual and an organization to determine which should take priority over the others (The Council on Quality and Leadership, n.d.). 
 
-! [Alt text] (/Users/lesternielsalvador/Documents/GitHub/First-Markdown-Assignment/First Markdown Assignmentver0.01)
+![Have Your Say Comment](https://edexec.co.uk/wp-content/uploads/2017/06/Have-your-say-comment.jpg)
+Data science is a valuable field of study  because the vast amounts of raw data acquirable online and in person is just “white noise” that makes little sense to anyone who isn’t a statistician. It is up to the people who study data science to make sense of this data and present it in ways that allow the general public to understand and make use of this data. 
 
 Data interpretation and analysis is a significant aspect when we work with data sets in any field we are in. As we analyze data, it becomes helpful for us to acquire useful and relevant information from a lot of unorganized data that will enable us to arrive at a solid decision that is not only useful for businesses and researchers, but also for individuals. 
 
@@ -42,6 +43,9 @@ One of the applications of data science in everyday life is **data personalizati
 Another application of data science is in the **healthcare industry**. It plays a very important role in monitoring a patient’s health and notifying necessary steps to be taken in order to detect potential diseases in order to prevent them from taking place. This proved to be very beneficial as a late detection of any disease would not only be detrimental to a person’s health but it would also cost them a lot of money to treat the disease or ailment (Data Flair, 2021). Data science also helps in monitoring a patient’s health. Wearable devices that track heartbeat, temperature and other medical parameters collect data that would be soon analyzed by doctors or/and medical experts to not only detect any sign of ailment or disease but also to keep track of a patient’s blood pressure, calorie intake and many others. These devices use real-time analytics to predict any problem based on the patient’s present condition, which helps doctors assess the necessary conditions to help patients in distress.
 
 ![Data Scinece in Healthcare](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/02/Data-Science-in-Healthcare-1.jpg)
+Another instance of data science contributing to change is the many different statistics that are used in gauging the effects of global warming. Massive amounts of data gathered by scientists around the world about the ever changing environment are used as a basis on sanctioning harmful industries and practices, all for the sake of the environment.
+
+![Global Warming](https://ccimgs-2019.s3.amazonaws.com/2019DecadeTemps/2019DecadeTemps_Global_C_en_title_lg.jpg)
 
 Finally, another notable application of data science is in the **Finance sector**. Banks can now easily manage massive amounts of data to learn more about their clients so that they could drive new revenue opportunities and improve their business decision making. Another is an effective customer support service. Clients could just easily contact a customer service representative through landline or through the internet (via email and voice chat or call), which enables them to ask questions or send complaints without the need (or at least limits the necessity) to personally go to a bank. It also enables clients to “pay online” or “contactless payment” which enables their clients to shop online through the use of a credit or debit card. Finally, through data science, banks can safely handle and keep track of their clients accounts to avoid credit card fraud, the breach of important financial data, and any other suspicious activity that would compromise their clients’ financial accounts (Activewizards, n.d). 
 
@@ -71,7 +75,7 @@ This topic is timely and relevant to what the country is experiencing and it bec
  
 The statistical methods that we will be using for this study would be numerical analysis of pre-existing data from reliable sources, data management, and making generalizations and conclusions based on the data that we have gathered. The main group of people who will benefit from this study is those who have plans in starting their own businesses in the middle of the pandemic and existing MSME owners so they can devise their own plans for the betterment of their business. 
 
-![Alt text] (/Users/lesternielsalvador/Documents/GitHub/First-Markdown-Assignment/First Markdown Assignmentver0.01)
+![Small Business](https://cannabrew.uk/wp-content/uploads/2021/01/small-business-saturday___17150639833.jpg)
 
 
 #### Sison, Justine Matthew 
@@ -90,19 +94,9 @@ World Population Review (2021). Manila Population 2021. Retrieved July 10, 2021 
 
 #### Castillo, Jose Xavier C.
 
-### **Question 1:**
-Data science is a valuable field of study  because the vast amounts of raw data acquirable online and in person is just “white noise” that makes little sense to anyone who isn’t a statistician. It is up to the people who study data science to make sense of this data and present it in ways that allow the general public to understand and make use of this data. 
-
-### **Question 2:**
-![Global Warming](https://ccimgs-2019.s3.amazonaws.com/2019DecadeTemps/2019DecadeTemps_Global_C_en_title_lg.jpg)
-
-One instance of data science contributing to change is the many different statistics that are used in gauging the effects of global warming. Massive amounts of data gathered by scientists around the world about the ever changing environment are used as a basis on sanctioning harmful industries and practices, all for the sake of the environment.
-
-### **Question 3:**
-![Casino Cards](https://www.bestcasinosites.net/wp-content/uploads/2020/01/casino-card-games-intro.jpg)
-
 One data science topic I would personally like to pursue is the science of “Card Counting”. According to Wendover productions, this practice is entirely legal and only looked down upon by casino management. It basically uses probability and statistics on the fly to consistently know what your odds are in any casino game, from blackjack to poker. The availability of data is of no concern as many blackjack and poker games are available online and in real life, while the calculations performed by many famous card counters are also readily available. The only one who would benefit from this study is myself of course.
 
+![Casino Cards](https://www.bestcasinosites.net/wp-content/uploads/2020/01/casino-card-games-intro.jpg)
 
 **Reference:**
 
